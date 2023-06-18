@@ -59,4 +59,4 @@ if __name__ == "__main__":
 
             counter += 1
             if counter % 10 == 0:
-                print(counter*BATCH_SIZE, "/", dataset)
+                print(counter*BATCH_SIZE, "/", len(dataset))
