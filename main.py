@@ -38,4 +38,4 @@ if __name__ == "__main__":
 
                 counter += 1
                 if counter % 1000 == 0:
-                    print(counter, "/", max_length)
+                    print(counter, "/", len(dataset))
