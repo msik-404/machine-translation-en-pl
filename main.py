@@ -1,10 +1,13 @@
 from transformers import pipeline
 from torch.utils.data import Dataset
 
+EN_PATH = "data/en_data.txt"
+PL_PATH = "data/pl_data.txt"
+
 
 class EnPrestoDataset(Dataset):
     def __init__(self):
-        self.path = "data/en_data.txt"
+        self.path = EN_PATH
         self.data = []
         with open(self.path, "r") as f:
             for line in f:
