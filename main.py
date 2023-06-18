@@ -1,41 +1,62 @@
-from transformers import pipeline
-from torch.utils.data import Dataset
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+from torch.utils.data import Dataset, DataLoader
 
 EN_PATH = "data/en_data.txt"
 PL_PATH = "data/pl_data.txt"
 
+BATCH_SIZE = 64
+MAX_LENGTH = 64
+
 
 class EnPrestoDataset(Dataset):
-    def __init__(self):
+    def __init__(self, tokenizer):
         self.path = EN_PATH
-        self.data = []
+        text = []
         with open(self.path, "r", encoding="utf-8") as f:
             for line in f:
                 for sentence in line.split(" # "):
                     if len(sentence) > 0:
                         if sentence[-1] == "\n":
                             sentence = sentence[:-1]
-                        self.data.append(sentence)
+                        text.append(sentence)
+        self.inputs = tokenizer(
+            text,
+            max_length=MAX_LENGTH,  # avg sentence length is 36.8
+            truncation=True,
+            padding=True,
+            return_tensors="pt",
+        ).input_ids.to("cuda")
 
     def __len__(self):
-        return len(self.data)
+        return len(self.inputs)
 
     def __getitem__(self, idx):
-        return self.data[idx]
+        return self.inputs[idx]
 
 
 if __name__ == "__main__":
-    dataset = EnPrestoDataset()
-    max_length = len(max(dataset.data, key=lambda x: len(x)))
     model_checkpoint = "sdadas/mt5-base-translator-en-pl"
-    translator = pipeline("translation", model=model_checkpoint, device=0)
+    tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+    dataset = EnPrestoDataset(tokenizer)
+    model = AutoModelForSeq2SeqLM.from_pretrained(
+        model_checkpoint,
+        device_map="auto",
+    )
+    dataloader = DataLoader(dataset, batch_size=BATCH_SIZE)
+
     counter = 0
     with open(PL_PATH, "w", encoding="utf-8") as f:
-        for out in translator(dataset, max_length=max_length):
-            for map in out:
-                f.write(map.get("translation_text"))
+        for data in dataloader:
+            generated_ids = model.generate(data, max_length=MAX_LENGTH)
+            outputs = tokenizer.batch_decode(
+                generated_ids,
+                skip_special_tokens=True,
+                clean_up_tokenization_spaces=True,
+            )
+            for output in outputs:
+                f.write(output)
                 f.write("\n")
 
-                counter += 1
-                if counter % 1000 == 0:
-                    print(counter, "/", len(dataset))
+            counter += 1
+            if counter % 10 == 0:
+                print(counter, "/", len(dataset))

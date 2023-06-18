@@ -14,7 +14,7 @@ Wróciły z poszukiwań
 Zrób notatkę biuro
 Oszczędzaj notatkę
 Biuro
-Microsoft Office, lub po prostu biuro, to dawna nazwa rodziny oprogramowania klientów, oprogramowania serwerowego i usług opracowanych przez firmę Microsoft. została po raz pierwszy ogłoszona przez Billa Gatesa 1 sierpnia 1988 roku w Comdex w Las Vegas.
+Microsoft Office, lub po prostu biuro, to dawna nazwa rodziny oprogramowania klientów, oprogramowania serwerowego i usług opracowanych przez firmę Microsoft. została po raz pierwszy ogłoszona przez Billa Gatesa 1 sierpnia
 Czy jest notatka zwana biurem
 Przepraszam, nie mogłem znaleźć notatek, których szukasz, oto wszystkie twoje notatki.
 Nowy wpis z Google Notizen.
@@ -112,7 +112,7 @@ Mam: miejsce, gdzie można odebrać dzieci. Gotowy do wysłania?
 SMS mama
 - Jasne, co to za wiadomość?
 Przyłącz lokalizację
-lg: do dołączenia lokalizacji w wiadomości. 1. utworzyć nową wiadomość i dodać odbiorcę. , 2. dotknąć ikony załącznika i dotknąć lokalizacji. , 3. wybrać lokalizację i dotknąć dołącz. i 4. wpisać wiadomość i dotknąć wysyłać.
+lg: do dołączenia lokalizacji w wiadomości. 1. utworzyć nową wiadomość i dodać odbiorcę., 2. dotknąć ikony załącznika i dotknąć lokalizacji., 3. wybrać lokalizację i dotknąć do
 utwórz notatkę zakupową Keep Me.
 Zacznij grać muzykę bluesową
 Gra na YouTube.
@@ -617,7 +617,7 @@ Detergent do włosów
 utwórz notatkę dla rodziny z przypomnieniem o 19:00.
 - Cre una nota na 10pm.
 Pokaż moje zadania
-Macie siedem przypomnień. oto trzy: w każdy poniedziałek o 11:00, "czysty samochód" każdego dnia w południe, "swoje wakacje są w przyszłym tygodniu" każdego dnia o 18:00, "medycyna". chcecie usłyszeć więcej?
+Macie siedem przypomnień. oto trzy: w każdy poniedziałek o 11:00, "czysty samochód" każdego dnia w południe, "swoje wakacje są w przyszłym tygodniu" każdego dnia o 18:00, "med
 Utwórz notatkę zakupową w notach.
 Call Best Buy
 Dobra, najlepiej kupić. chcesz obsługi klienta, czy lokalnego oddziału?
@@ -685,7 +685,7 @@ Usunąć listę uczniów i nauczycieli.
 Ok, zrobiłem listę o nazwie "Usuń listę uczniów i listę nauczycieli" i dodałem te dwie rzeczy.
 Zrób notiz na 21:00.
 Proszę potwierdzić, że nie masz 50 lat
-- Jestem pewien. Proszę potwierdzić, że nie masz 50 lat.. ..gotowy do wysłania?
+- Jestem pewien. Proszę potwierdzić, że nie masz 50 lat....gotowy do wysłania?
 James
 - Jaki jest przekaz?
 Przesłanie komuś
@@ -736,3 +736,673 @@ Wyślij Scarlettowi SMS-a.
 Dobra, co to za wiadomość?
 Dodać do Google Notizen.
 Hej, daj pierścionek Samuelowi
+Przepraszam, do kogo chcesz zadzwonić?
+Zrobisz notatkę Bob?
+Zadzwoń 555-666-4444
+dzwoniąc (555) 666-4444.
+Zadzwoń 555-6666-4444
+dzwoniąc 55566664444.
+stwórz notatkę, aby odwiedzić bonne-maman po szkole dla Cécile.
+Wyciągnij moją listę zakupów
+Masz dwie listy o podobnych nazwach. o której chcesz wiedzieć?
+utwórz notatkę, aby zarezerwować lot do Bordeaux.
+Spóźnię się, ale do zobaczenia wkrótce
+Mam: spóźniam się, ale do zobaczenia wkrótce... gotowy do wysłania go?
+Tak.
+Ok, co to za wiadomość?
+Siostra
+Mam pamiętać, że twoja siostra ma na imię siostra?
+Chcę wysłać wiadomość do siostry
+Jak ma na imię twoja siostra?
+Chcę wysłać wiadomość
+Kogo chcesz wysłać?
+Zróbmy notatkę rodzinną o nazwie obowiązki.
+Stwórz listę spożywczą
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+Tak.
+Zrobiłem listę o nazwie "spożywka".
+Edytuj nazwę listy
+Masz 11 list, które chcesz edytować?
+edytuj listę "spożywka"
+Chcesz edytować tytuł lub element?
+Tytuł
+Chcesz edytować tytuł lub element?
+me gustaría crear a shared note with a reminder in keep for 9pm.
+Utwórz notatkę, por favor.
+Szukajcie parkingu tutaj
+Znalazłem kilka miejsc w pobliżu ciebie.
+Zobacz parking w Muzeum Salvador Dali
+Według Wikipedii: Salvador Dali Museum to muzeum sztuki w St Petersburg, Floryda, Stany Zjednoczone, poświęcone dziełom Salvador Dali.
+Parking w muzeum Salvador Dali.
+Według Wikipedii: Salvador Dali Museum to muzeum sztuki w St Petersburg, Floryda, Stany Zjednoczone, poświęcone dziełom Salvador Dali.
+Chcę, żebyś zrobił nota de keep w moim smartfonie.
+Ustaw alarm na 45 minut zwany rozmrażaniem ryb.
+Twój alarm o nazwie "rozmrożone ryby" jest ustawiony na 11:07.
+Zagraj klasyczną muzykę do gotowania.
+Pewnie, oto lista na youtube zwana muzyką klasyczną kanibala.
+Zagraj wideo na youtube o tym, jak piec ryby.
+Tu jest youtube
+utworzyć 2-godzinny timer zwany pieczonym indykiem.
+Pewnie, dwugodzinny zegar zwany pieczonym indyka i zaczyna się... teraz.
+Crea una note con un recordatorio.
+Dobrze. Ustaw 5-minutowy timer zwany popcornem.
+3 - Popcorn, przez 5 minut. I to się zaczyna... teraz.
+Proszę odtworzyć wideo na temat smażenia mięsa koziego.
+Pewnie. Oto jak smażyć kozie mięso.
+Ustaw nowy timer na 45 minut, zwany gotowaną kozą.
+Drugi timer. Gotowana koza, przez czterdzieści pięć minut. I to się zaczyna... teraz.
+Ustaw czas na 10 minut, który nazywa się smażony kurczak.
+Pewnie, 10-minutowy zegar zwany smażonym kurczakiem. Zaczyna się... teraz.
+Proszę, zagraj muzykę do mojego gotowania.
+Grać muzykę do gotowania na YouTube.
+Likonos notatnik gospodarstwa domowego.
+Utwórz notatkę 6 godzin.
+/Także, sms z Elizabeth /mówiąc niespodziankę /o urodzinach dla Avery w tę sobotę o 19:00
+Niespodzianka urodzinowa dla Avery w sobotę o 7pm.
+Przypomnij mi, żebym odebrał prezent w centrum handlowym jutro w południe.
+W porządku, przypomnię ci jutro w południe.
+Urodziny Avery
+Ok. Urodziny Avery'ego. Coś jeszcze?
+dodać biżuterię (prezent) do listy
+Pewnie. biżuteria (prezent) na twojej liście o nazwie "Urodziny Avery". Coś jeszcze?
+Zrób nową listę o nazwie urodziny Avery
+Zrobiłam listę o nazwie "Urodziny Avery".
+Czy możesz stworzyć notatkę na dom w łazience dla Jerry'ego?
+Nie, nie.
+Nie ma problemu
+Dodać pick up Noah and Jack do mojego kalendarza w niedzielę o 3 pm
+Dzwoń do Noah Wood.
+Zadzwoń do Jacka Lee
+Dzwoń do Jacka Lee.
+- 555-333-8888
+dzwoniąc (555) 333-8888.
+Czy możesz szukać ciekawych wydarzeń w ten weekend w okolicach Oakland?
+Oto kilka szczegółów
+Stwórz Haftnotiz.
+Czy możesz stworzyć dla mnie listę
+Dobra, jak chcesz to nazwać?
+Koszto
+Pewnie, zrobiłem listę o nazwie "costco".
+dodać pastę do zębów, płyn do płukania jamy ustnej, detergent do prania, mydło, środek do dezynfekcji rąk, owoce, mrożone jagody i kukurydzę.
+Te cztery rzeczy na twojej liście nazywają się "costco". Coś jeszcze?
+Tak.
+Co chciałeś dodać?
+Papierowe ręczniki i tkanki
+Pewnie. Papierowe ręczniki i chusteczki. Coś jeszcze?
+Zrób notatkę na 9pm.
+Numer Levi to 555-444-9999
+Mam: 555-444- 444-9999. Gotowy do wysłania?
+Nie.
+Ok, co to za wiadomość?
+Nie.
+Skoro mam problemy ze zrozumieniem twojej wiadomości, czy chciałbyś, żebym nagrał nagranie audio?
+Numer opłaty to 555-444-9999
+Mam: 555-444-9999. Gotowy do wysłania?
+SMS 555-444-7777
+Ok, co to za wiadomość?
+Chcę ten jabłkowy notiz.
+Proszę utworzyć listę o nazwie palindromes
+Dobra, zrobiłem listę o nazwie "palindromes".
+Dodawanie mamy i taty do listy
+Te dwie rzeczy na twojej liście nazywają się "palindromes". Coś jeszcze?
+Tak, dodaj oho i racecar
+Co chciałeś dodać?
+Racecar
+Ok. Samochód wyścigowy. Coś jeszcze?
+Nie.
+Ok, twoja lista jest zaktualizowana.
+utwórz nowości dla króliczka.
+Sophia
+Przepraszam, do kogo chcesz zadzwonić?
+Rozpocznij rozmowę telefoniczną
+Do kogo chcesz zadzwonić?
+Zróbmy notatkę rodzinną o nazwie obowiązki.
+Muszę przeczytać jedną z moich notatek
+Masz sporo notatek.
+Dodać This do Apple notes.
+Idź i zacznij ogłoszenie.
+Oto kilka wyników z sieci
+Utwórz notatkę 18h.
+Zrób listę
+Dobra, jak chcesz to nazwać?
+Ulubione aktorki
+Zrobiłam listę "ulubionych aktorek".
+Dodać to do moich notas de keep.
+apunta w pojęciu notatkę dla klubu crossfit.
+Zadzwoń do panny Hughes.
+Czy to Sofia Hughes z (555) 222-9999?
+Zadzwoń do Sophii G.
+Przepraszam, do kogo chcesz zadzwonić?
+Utwórz nową notatkę z mime.
+Zmień wpisy listy w książce wishlsit
+Nie mogłam znaleźć listy o nazwie "książka wishlist".
+Zrób listę o nazwie Shopping Mall
+Dobra, zrobiłem listę o nazwie "centrum handlowe".
+dodać koszule i spodnie i chusteczki do listy centrów handlowych
+Pewnie. Te dwie rzeczy na twojej liście nazywają się "centrum handlowe". Coś jeszcze?
+Co znajduje się na liście moich centrów handlowych
+Na tej liście są dwie rzeczy.
+Powiedz mi, co znajduje się na mojej liście centrów handlowych
+Masz na liście dwie rzeczy. Tuszeczki, koszule i spodnie.
+Nowa nota.
+Call ella white
+Nazwij Ellę Białą.
+/Złóż notatkę dla taty z treścią /nie zapomnij zamontować filtru powietrza w samochodzie na jutro o 09 rano.
+Stwórz osobisty notiz.
+15:00
+W porządku, przypomnię ci w piątek o 15:00.
+Następny wtorek
+Dobra, bierz gaz w Kroger. To będzie wtorek. O której godzinie?
+Następny wee
+Przepraszam, nadal tego nie rozumiem. Możesz mi powiedzieć dzień, godzinę, a nawet kiedy dojedziesz do miejsca. Więc kiedy chcesz być przypomniany?
+Nie jestem pewien. Dam ci znać, jak to wymyślę.
+Przepraszam, kiedy?
+Przypomnij mi, żebym wziął gaz w Kroger
+Dobra, bierz gaz w Kroger. Kiedy chcesz być przypomniany?
+utwórz notatkę na mojej osobie o nazwie: Fête de Johanne.
+/Zrób sobie /wspólną notatkę dla Marii i Luisa.
+Możesz stworzyć notatkę rodzinną dla Carlosa?
+Sprawdź 5 ram papieru do kopiowania
+Jaką listę?
+Dodawanie nowych opon
+Dostałem, dodałem nowe opony.
+Otwórz moją listę walmart
+Na tej liście są dwie rzeczy.
+ Crea nota para Carlos.
+Rozpocznij listę nazwisk kotów
+Zrobiłem listę o nazwie "imiona kotów".
+Usuwanie nazw kotów
+Który przedmiot?
+Usunąć listy nazw kotów
+Który przedmiot?
+Usunąć listę nazw kotów
+Który przedmiot?
+Zrób notatkę dla mojego notatnika.
+/Także, sms z Elizabeth /mówiąc niespodziankę /o urodzinach dla Avery w tę sobotę o 19:00
+Niespodzianka urodzinowa dla Avery w sobotę o 7pm.
+Przypomnij mi, żebym odebrał prezent w centrum handlowym jutro w południe.
+W porządku, przypomnię ci jutro w południe.
+Urodziny Avery
+Ok. Urodziny Avery'ego. Coś jeszcze?
+dodać biżuterię (prezent) do listy
+Pewnie. biżuteria (prezent) na twojej liście o nazwie "Urodziny Avery". Coś jeszcze?
+Zrób nową listę o nazwie urodziny Avery
+Zrobiłam listę o nazwie "Urodziny Avery".
+utwórz nową notatkę z przypomnieniem w memoriatorios.
+Czy ona mieszka na Evanswood?
+Mam: czy ona mieszka na Evanswood?. gotowy do wysłania go?
+Ethan.
+Ok, co to za wiadomość?
+Chcę wysłać wiadomość do Ethana.
+Przepraszam, kogo chcesz wysłać wiadomość?
+Chcę stworzyć notatkę dla domu.
+W sobotę o dziewiątej.
+W porządku, przypomnię ci w sobotę o 9:00.
+Umyj prześcieradła.
+Dobra, chcesz dodać czas?
+Ustaw zadanie.
+Co to za przypomnienie?
+Stwórz notatkę.
+Nie, zmień to na czwartek
+O której godzinie?
+Spotkanie
+Mam to, spotkanie w środę o 22:00. Chcesz to uratować?
+Dziesięć
+Jaki jest tytuł wydarzenia?
+Dodaj spotkanie w środę
+O której godzinie?
+Zrób notatkę
+Oszczędzaj notatkę
+utwórz notatkę dla grupy znanej.
+Zrób dobre czarno-białe zdjęcie
+Pewnie. Przygotuj się!
+Zrób zdjęcie w rozmiarze paszportu
+według ślimaka: rozmiar zdjęcia powinien wynosić 2 x 2 cale, 35 x 45 mm lub 35 x 35 mm. kolor tła musi być biały lub biały.
+- Stwórz nową notatkę Noël w moim telefonie.
+i need balance checkbook added to the todo list
+Nie mogłem znaleźć listy o nazwie "todo". Chcesz, żebym ją zrobił?
+Dodać do listy do zrobienia
+Co chcesz dodać?
+Możesz wziąć notiz?
+utwórz nową notatkę z przypomnieniem, aby znaleźć przepis na crème brûlée.
+Usunąć moją listę siłowni o piątej
+Przepraszam, nie mogłem znaleźć żadnych list z tym nazwiskiem.
+Usunąć moją listę gimnastyki
+Przepraszam, nie mogłem znaleźć żadnych list z tym nazwiskiem.
+Siłownia o piątej
+Znalazłem kilka miejsc w pobliżu ciebie.
+Usunąć notatkę
+Nie mogę tego zrobić na tym urządzeniu. idź i wybierz notatkę, którą chcesz zmienić.
+Ćwiczenia na siłowni o piątej
+Oszczędzaj notatkę
+Czy możesz stworzyć notatkę domową dla papy?
+Zrób notatkę na dzień 9.
+Nie, usuń moją listę artykułów spożywczych.
+Jesteś pewien, że chcesz iść i usunąć go?
+Wyświetl moją listę, która zawiera jajka.
+Masz 11 list, o których chcesz wiedzieć?
+Napisz wspólną notatkę z pamięcią.
+Zadzwoń do Mr Moore
+Czy to Henry Moore na (555) 444-6666?
+Przepraszam, mam na myśli pana Moore'a.
+Oto kilka wyników z wyszukiwania
+Tak.
+Dzwonię do Lucasa Morrisa.
+Zadzwoń do Morrisa
+Czy to Lucas Morris na (555) 444-5555?
+Zadzwoń do Morris
+Przepraszam, do kogo chcesz zadzwonić?
+Realiz una nota in keep for 11:00 h.
+Czy mógłbyś stworzyć listę dla mnie o nazwie rzeczy do kupienia
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+dodać pastę do zębów i środek do dezynfekcji rąk
+Dostałem, dodałem te dwie rzeczy.
+dodać galaretkę i masło orzechowe i chleb
+Oto co znalazłem w sieci
+utworzyć notatkę z napisem hafermilch kaufen.
+Nowy notiz.
+Pranie.
+Dobra, chcesz dodać czas?
+Zróbmy zadanie, dobrze?
+Co to za przypomnienie?
+Napisz notatkę domową mówiącą abendessen.
+Czy mógłbyś stworzyć dla mnie listę o nazwie Costco
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+dodać gruszki i banany na nim
+Dostałem, dodałem gruszki i banany.
+Folia cynowa i serwetki
+- Jak chcesz to nazwać?
+Papierowe płyty i plastikowe naczynia
+Przepraszam, nie zrozumiałem. Jak chcesz nazwać tę listę?
+utwórz lepki list o nazwie je t'aime.
+Rozpocznij listę wyzwalających drgawki
+Dobra, jak chcesz to nazwać?
+tantrum triggrers
+Dobra, zrobiłem listę o nazwie "wyzwalające tętno".
+Usuwanie spustów tchu
+Nie mogłem znaleźć spustów gniewu.
+Usunąć spusty tętna
+Nie mogłem znaleźć nic związanego z "wyzwalaniem tętna"
+Usunąć listę wyzwalających drgawki
+Jesteś pewien, że chcesz iść i usunąć go?
+- Stwórz notatkę o 18:00.
+Dodaj nowe opony do listy do zrobienia
+No i dodałem nowe opony.
+Whoops, przenieście to na listę walmartów
+Nie mogłem znaleźć tego przedmiotu na twojej liście, który nazywa się "walmart".
+Dodać
+Co chcesz dodać?
+Stwórz notatkę dla Mamy.
+Usunięcie „klasa jest anulowana”
+Nie mogłem znaleźć nic związanego z "klasa jest anulowana"
+Usunąć tę notatkę i wszystkie inne notatki.
+Nie mogłem znaleźć nic związanego z "tą nutą i wszystkimi innymi nutami".
+Nic.
+W porządku.
+Notatka
+Co chcesz, żeby to mówiło?
+Usunąć notatkę.
+Nie mogę tego zrobić na tym urządzeniu. idź i wybierz notatkę, którą chcesz zmienić.
+Zrób notatkę rodzinną o nazwie nasze wakacje w Côte d'Azur.
+Jakie mam notatki?
+Masz sporo notatek.
+Jakie listy mam?
+Masz sześć list.
+Jak nazywa się pierwszy?
+Znalazłem te wyniki
+Tak.
+Masz sześć list.
+Otwarta lista.
+Przepraszam, szukałam tego, ale nie mogłam znaleźć. Chcesz zobaczyć wszystkie listy?
+Zróbmy rodzinną notatkę o nazwie "Wycieczka do Challes-les-eaux".
+Chcę otrzymać listę świąteczną.
+Masz jedną rzecz na tej liście.
+agregar notatki jabłkowe.
+Nie.
+Dobra, co to za wiadomość?
+Nie.
+Skoro mam problemy ze zrozumieniem twojej wiadomości, czy chciałbyś, żebym nagrał nagranie audio?
+Wyślij mi oświadczenie CC
+Mam: oświadczenie CC. Gotowy do wysłania?
+Samuel
+Ok, co to za wiadomość?
+Wyślij wiadomość
+Kogo chcesz wysłać?
+utworzyć nowy notiz z przypomnieniem.
+Czy można stworzyć notiz urodzinowy w trzymaniu?
+Zbierz nową listę
+Dobra, jak chcesz to nazwać?
+Nazwiska
+Dobra, zrobiłem listę o nazwie "nazwiska".
+Omiń listę
+Wygląda na to, że ta lista jest już pusta.
+Nazwiska
+Oto kilka szczegółów
+Hola google keep, dodaj notatkę utworzoną o 16:00.
+Dodać do listy
+Dobra, do której listy chcesz dodać?
+filmy
+Co chcesz dodać?
+Dodawanie do listy muzycznej zamiast
+Co chcesz dodać?
+Zrób notatkę z moich obowiązków, por favor.
+ Create a reminder in keep.
+Napisz notatkę domową mówiącą fiesta esta noche.
+Usunąć kilka rzeczy z mojej listy rzeczy do zrobienia.
+Który przedmiot?
+każdy przedmiot
+Który przedmiot?
+dodać naczynia do mojej listy zadań do zrobienia.
+Który przedmiot?
+dodać naczynia do listy zwanej to-do.
+Nie mogłem znaleźć tych dwóch rzeczy na twojej liście, które nazywasz "robić".
+dodać naczynia do mojej listy zadań do zrobienia.
+Który przedmiot?
+Zróbmy notatkę o genealogii brata o nazwie 佐々木家連絡帳.
+Chcę stworzyć rodzinną notatkę do utrzymania.
+Dodać do Notas de Apple.
+Będę gotowy do 8
+Jestem gotowy do 8.. gotowi do wysłania?
+Daniel
+Dobra, co to za wiadomość?
+Wyślij wiadomość
+Kogo chcesz wysłać?
+Tak.
+Wyślij wiadomość.
+Napisz Danielowi, że będę gotowy do 8.
+Więc, to wiadomość do Daniela Allena, mówiąca, "Będę gotowy do 8.". Gotowy do wysłania?
+Czy można stworzyć notiz 7am?
+utworzyć listę rzeczy o nazwie dla partii
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+dodać gruszki i banany na nim
+Dostałem, dodałem gruszki i banany.
+jagody
+Dobra, zrobiłem listę o nazwie " jagody".
+sałatka
+Dobra, jak chcesz to nazwać?
+skrzydła kurczaka
+Zrobiłam listę o nazwie "skrzydła kurczaka" i dodałam sałatkę.
+Skomponuj list miłosny i najlepsze życzenia na moim telefonie.
+10:00
+Przypomnę ci 4 listopada o 10:00.
+W przyszłym tygodniu piątek
+- Mam to, zobaczmy się z lekarzem. To będzie 4 listopada, o której?
+Zobacz lekarza
+- Do lekarza. Kiedy chcesz być przypomniany?
+Nowe przypomnienie
+Co to za przypomnienie?
+Dodać to do Google Keep Note.
+Tworzenie zadania o nazwie Make Breakfast
+Dobra, chcesz dodać czas?
+dodać notatkę o nazwie: vacances à Lyon for the famille.
+Tworzenie listy to-do
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+Dodać read
+Zrobiłem listę o nazwie "czytać".
+Pranie
+Pewnie, zrobiłem listę o nazwie "pranie".
+Napisz list do znajomych.
+Przetłumacz mój tekst na japenese
+Oto kilka szczegółów
+Japoński
+Znalazłem kilka miejsc w pobliżu ciebie.
+Białoruś
+Ponieważ nadal mam problemy ze zrozumieniem, na razie przestanę.
+Białoruś
+Przepraszam, jakim językiem?
+Aktywacja tłumacza
+- Jaki język chcesz przetłumaczyć?
+Zróbmy notatkę z dnia dzisiejszego, zwaną obowiązkami.
+Mamo
+Mam pytanie: gdzie mamy się spotkać na lunch?. gotowy do wysłania go?
+SMS-em do mamy, gdzie mamy się spotkać na lunch
+Więc, to wiadomość do mamy, "gdzie mamy się spotkać na lunch?" Gotowy do wysłania?
+utwórz notatkę tygodniową na zakupy w Evernote.
+3 minuty.
+Drugi timer, na trzy minuty. I zaczynamy... teraz.
+pięknie! teraz zaprogramuj timer na 3 minuty i nazwij go "gotuj gotuj swoją łódź".
+Dobra, trzy minuty i zaczynamy... teraz. Oto informacje z Wikipedii.
+Znajdź mi przepis na obiad na "spamboaty".
+Oto najwyższe wyniki wyszukiwania
+Zagraj w "row row row your boat" w tle.
+Mam to, oto lista na youtube zwana popularnymi piosenkami dla dzieci - instrumentalna | muzyka w tle dla dzieci.
+utworzyć nową notatkę z przypomnieniem.
+stworzyć lepki list mówiący kocham cię.
+Muszę coś dodać do listy
+Dobra, do której listy chcesz dodać?
+Crea una shopping note en keep.
+utwórz listę o nazwie kaskaderstwo i umieścić na niej fajny backflip
+Zrobiłem listę o nazwie "Kutki" i dodałem fajny backflip.
+Czy możesz edytować moją listę kaskaderów, które zrobiłem?
+Chcesz edytować tytuł lub element?
+obiekt
+Chcesz edytować tytuł lub element?
+Dodam nota dla Marii na moim iPadzie.
+Dodawanie piłki nożnej do listy sportowej.
+Ok, dodałem piłkę nożną.
+Zamiast tego dodaj do tej listy piłkę.
+Pewnie. Baseball na twojej liście nazywa się "sport". Coś jeszcze?
+Zróbmy notiz rodzinny.
+utwórz listę artykułów spożywczych i dodaj do listy seler, pomidor, bułeczki, ketchup, majonez
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+Tak.
+Zrobiłem listę o nazwie "spożywka" i dodałem te trzy rzeczy.
+Wyeliminuj ketchup z listy produktów spożywczych
+Nie mogłem znaleźć ketchupu na twojej liście o nazwie "spożywka".
+Usuwanie bułeczek z listy
+Nie mogłem znaleźć bułeczek.
+Zrób notatkę dla taty na moim iPadzie.
+Stwórz zadanie o nazwie czysta sypialnia
+Ok, chcesz dodać czas?
+Czy możesz stworzyć notatkę haushalt dla Jerry'ego?
+Czy w sobotę jest dostępny bezpłatny parking w pobliżu ogrodu botanicznego?
+Czy jest jakikolwiek darmowy parking dostępny w pobliżu ogrodu botanicznego w sobotę w okolicach Berkeley, tutaj idziesz.
+Parking w pobliżu ogrodu botanicznego w DC
+Znalazłem kilka miejsc w pobliżu Waszyngtonu.
+Zrób notatkę dla brata na mojej galaktyce.
+Zrób notatkę dla taty na meinem iPadzie.
+Musimy zacząć szukać prezentów świątecznych
+Mam: musimy zacząć rozmyślać o prezentach świątecznych... gotowych do wysłania?
+Lucas
+- Jaki jest przekaz?
+Wyślij tekst
+Kogo chcesz napisać?
+Zrób notatkę mis amigos z imprezą zawartości jest gotowa.
+wszystkie przedmioty z mojej listy rzeczy do zrobienia
+Masz dwie listy o podobnych nazwach. Którą chcesz wyjaśnić?
+Tak.
+Wygląda na to, że ta lista jest już pusta.
+Chcę zobaczyć wszystkie moje listy
+Masz sporo list.
+Wyczyść wszystkie listy
+Masz 11 list, które chcesz wyjaśnić?
+Tworzenie listy to-do
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+Napisz wspólne przypomnienie.
+Rozpocznij nowe cele na listę roczną z ćwiczeniami na niej.
+Znalazłem to w sieci
+stwórz nowe cele na listę i dodaj do niej więcej ćwiczeń.
+Zrobiłem listę o nazwie "Nowe cele na rok" i dodałem do niej więcej ćwiczeń.
+idź i wykreśl zeszłoroczne cele na listę.
+Wróciły z poszukiwań
+idź i usuń cele na liście rocznej.
+Oto co znalazłem
+Usunąć cele na liście rocznej.
+Nie mogłem znaleźć nic związanego z "celami na listę roku".
+Chcę stworzyć notatkę dla Amelii.
+Ustalmy moje nowe cele na listę tygodni.
+Oto kilka wyników
+Ustal moje nowe cele na listę tygodni.
+Oto kilka informacji na temat: jak skonfigurować cele tygodniowe?oto podsumowanie z atramentu + Volt: cele tygodniowe w 6 krokach. 1. zastanów się nad ostatnim tygodniem. 2. spójrz w przyszłość na cele długoterminowe,
+Stwórz nowe cele na liście tygodni.
+Zrobiłem listę o nazwie "cele tygodnia".
+Zapomnij o celach na tydzień.
+Nie mogłem znaleźć nic związanego z "celami tygodnia"
+Zapomnij o celach na liście tygodni.
+Nie mogłem znaleźć nic związanego z "celami na liście tygodni".
+Zróbmy lepką notatkę domową, mówiącą, że proszę posprzątać kuchnię.
+Tworzenie listy obowiązków
+Pewnie, zrobiłem listę o nazwie "chore".
+Załóż udostępnioną notatkę z resztą.
+Czy możesz stworzyć dla mnie listę
+Dobra, jak chcesz to nazwać?
+Koszto
+Pewnie, zrobiłem listę o nazwie "costco".
+dodać pastę do zębów, płyn do płukania jamy ustnej, detergent do prania, mydło, środek do dezynfekcji rąk, owoce, mrożone jagody i kukurydzę.
+Te cztery rzeczy na twojej liście nazywają się "costco". Coś jeszcze?
+Tak.
+Co chciałeś dodać?
+Papierowe ręczniki i tkanki
+Pewnie. Papierowe ręczniki i chusteczki. Coś jeszcze?
+Czy mógłbyś napisać notatkę z powrotem, że mówi " rendez-vous demain".
+lepka notatka tworzy करो.
+Czy możesz stworzyć dla mnie listę
+- Jak chcesz to nazwać?
+Rzeczy na podróż
+W porządku, zrobiłem listę o nazwie "rzeczy na wycieczkę".
+dodać pastę do zębów, płyn do płukania jamy ustnej, detergent do prania, mydło i środek do dezynfekcji rąk
+Te dwie rzeczy na twojej liście nazywane "rzeczy na wycieczkę". Coś jeszcze?
+Możesz dodać szampon
+Masz to, szampon, coś jeszcze?
+Rzeczy na podróż
+Co chcesz dodać?
+Zrób notatkę na 3 po południu.
+Nie.
+Dobra, co to za wiadomość?
+Nie.
+Skoro mam problemy ze zrozumieniem twojej wiadomości, czy chciałbyś, żebym nagrał nagranie audio?
+Wyślij mi oświadczenie CC
+Mam: oświadczenie CC. Gotowy do wysłania?
+Samuel
+Ok, co to za wiadomość?
+Wyślij wiadomość
+Kogo chcesz wysłać?
+Mach ein Memo for Dad.
+Zrób listę zwaną podróżą
+Zrobiłem listę o nazwie "podróż drogowa".
+utworzyć listę o nazwie target run
+Dobra, zrobiłem listę o nazwie "cel uruchomiony".
+dodawanie pomidorów do listy zwanej uruchomieniem docelowym
+pomidory na twojej liście nazywane "celowe uruchomienie". Coś jeszcze?
+Dodać ziemniaki do podróży
+- Pewnie, ziemniaki, coś jeszcze?
+To jest to
+Co chcesz dodać?
+Napisz notiz, który ma być udostępniony w Google Keep z rodziną.
+Crea una sticky note.
+Czy mógłbyś stworzyć listę rzeczy, których potrzebuję
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
+dodać pastę do zębów i środek do dezynfekcji rąk
+Ok, dodałem te dwie rzeczy.
+detergent do prania
+Dobra, zrobiłem listę o nazwie "detergent do prania".
+Masło orzechowe i chleb
+Jak chcesz to nazwać?
+Masło i galaretki
+- Jak chcesz to nazwać?
+dodać lampadaire do vocabulaire français w pojęciu.
+utworzenie listy o nazwie Letnia przerwa
+Zrobiłam listę o nazwie "przerwa letnia".
+dodać członkostwo ymca i ćwiczenia koszykówki
+Członkostwo w YMCA i ćwiczenia koszykówki na twojej liście zwanej "przerwa letnia". Coś jeszcze?
+Lista letnich przerw
+Co chcesz dodać?
+Chcę wyczyścić listę letnich przerw ze wszystkich elementów
+Jesteś pewien, że chcesz to wszystko oczyścić?
+Dodać pozycję Sorter les poubelles do Google Keep.
+Kup mleko i jajka ka memo create करो.
+Mia
+Pytam, czy nie chce przyjść o ósmej... gotowy do wysłania?
+Wyślij wiadomość do Mii, prosząc ją, by przyszła o ósmej.
+Więc, to wiadomość do Mii Wilson, "prosząc ją, by przyszła o ósmej". Gotowa, by ją wysłać?
+utwórz notatkę francuskiego śpiewu na Keep.
+Potrzebuję jeszcze jednego elementu na liście
+Do której listy chcesz dodać?
+Muszę dodać jabłka
+Dobra, do której listy chcesz dodać?
+Czy możesz stworzyć notatkę domową Jerry'ego?
+Dodaj to do Apple-Notizen.
+Wyświetlanie gabinetów lekarskich na szlaku Lake Boone
+Znalazłem kilka miejsc w pobliżu Lake Boone Trail, Raleigh, NC.
+Notiere zakupy w trzymaniu.
+Dodawanie mleka i jaj do nowej listy
+- Jak chcesz to nazwać?
+Paulty
+Dobra, zrobiłem listę o nazwie "drób" i dodałem te dwie rzeczy.
+Papier
+Co chcesz dodać?
+Papier
+- Papier na twojej liście o nazwie "drób". Coś jeszcze?
+Nie.
+Ok, twoja lista jest zaktualizowana.
+Zróbmy notatkę rodzinną.
+utworzyć notiz 7 godzin.
+zmienić tytuł mojej listy
+Masz 11 list, które chcesz edytować?
+Produkty spożywcze1
+Nie mogłem znaleźć listy o nazwie "spożywka".
+spożywczy
+Znalazłem kilka sklepów spożywczych w pobliżu ciebie.
+zmienić tytuł mojego sklepu spożywczego
+Masz dwie listy o podobnych nazwach. Którą chcesz edytować?
+spożywczy
+Znalazłem kilka sklepów spożywczych w pobliżu ciebie.
+Stwórzmy wspólne erinnerung z przypomnieniem.
+Proszę o nowy telefon
+Do kogo chcesz zadzwonić?
+utwórz notatkę, aby kupić दूध i jajka.
+dodać masaż dziecięcy i gotować ryż do mojej listy zadań do zrobienia.
+Jasne, dodałem masaż dziecięcy i gotuję ryż.
+Usunąć ryż z listy.
+Nie mogłem znaleźć gotowanego ryżu.
+Usunąć ryż z mojej listy rzeczy do zrobienia.
+Nie mogłem znaleźć ryżu na twojej liście o nazwie "do zrobienia".
+Zróbmy rodzinne wspomnienie o nazwie Hausarbeit.
+Szukam ortodonty w Eastgate, Ohio.
+Znalazłem kilka miejsc w pobliżu Batavii.
+Utwórz notatkę z rekordem.
+16 stycznia 2023.
+- Dobrze, święto szczęścia. Będzie 16 stycznia 2023. O której godzinie?
+Hoagie Fest.
+Ok, chcesz dodać czas?
+Odwołaj i zacznij od nowa.
+Nie ma problemu, co to za przypomnienie?
+utworzyć nowe zadanie o nazwie Hoagie Fest.
+Przepraszam, jak to jest z pisownią?
+Nowe zadanie, proszę i nazwij je Hoagie Fest.
+Nie widzę tego imienia. Jaka jest pisownia?
+Czy stworzysz notatkę Bob?
+Wyślij wiadomość do Liama
+Przepraszam, kogo chcesz wysłać wiadomość?
+Dodaj notatkę do Google Keep with a Reminder.
+ur mama
+Mam: Twoja mama. Gotowa, żeby to wysłać?
+Noah Wood
+- Jaki jest przekaz?
+Przesłanie komuś
+Kogo chcesz wysłać?
+Przesłanie
+Aby otworzyć wiadomości, powiedz coś w stylu: "otwieraj wiadomości Android" lub "odczytuj moje wiadomości"
+dodać: atelier Cézanne to vacances en Provence.
+Tak.
+Dobry, dobry
+Mamo
+Wiem, że znasz moje prawdziwe imię
+Mamo
+Dzwoń do mamy, inny.
+Zadzwoń do mamy
+Dzwoń do mamy, inny.
+utwórz nową notatkę z pamięcią.
+Dobrze. Ustaw zegar o nazwie pudding na godzinę.
+Dobra, godzinny zegar zwany puddingiem. Zaczyna się teraz.
+Teraz powiedz mi, jak robić naleśniki.
+Znalazłem te wyniki
+Następnie odtwarzaj wideo na temat tego, jak zrobić grillowaną wołowinę.
+Oto kolejne video z grillowaną wołowinę.
+Znajdź instrukcje jak zrobić pudding.
+Znalazłem to w sieci
+Zagraj trochę bgm na kolację.
+Tutaj jest muzyka gotowania - muzyka w tle - playlista na youtube.
+Zrób notatkę dla mamy.
+Zrób bucket list.
+Wygląda na to, że masz już listę z tą nazwą. Nadal chcesz stworzyć nową?
