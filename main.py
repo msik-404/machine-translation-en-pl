@@ -26,7 +26,7 @@ class EnPrestoDataset(Dataset):
 
 if __name__ == "__main__":
     dataset = EnPrestoDataset()
-    max_length = len(max(dataset, key=lambda x: len(x)))
+    max_length = len(max(dataset.data, key=lambda x: len(x)))
     model_checkpoint = "sdadas/mt5-base-translator-en-pl"
     translator = pipeline("translation", model=model_checkpoint, device=0)
     counter = 0
