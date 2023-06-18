@@ -9,7 +9,7 @@ class EnPrestoDataset(Dataset):
     def __init__(self):
         self.path = EN_PATH
         self.data = []
-        with open(self.path, "r") as f:
+        with open(self.path, "r", encoding="utf-8") as f:
             for line in f:
                 for sentence in line.split(" # "):
                     if len(sentence) > 0:
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     model_checkpoint = "sdadas/mt5-base-translator-en-pl"
     translator = pipeline("translation", model=model_checkpoint, device=0)
     counter = 0
-    with open(PL_PATH, "w") as f:
+    with open(PL_PATH, "w", encoding="utf-8") as f:
         for out in translator(dataset, max_length=max_length):
             for map in out:
                 f.write(map.get("translation_text"))
