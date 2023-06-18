@@ -29,5 +29,13 @@ if __name__ == "__main__":
     max_length = len(max(dataset, key=lambda x: len(x)))
     model_checkpoint = "sdadas/mt5-base-translator-en-pl"
     translator = pipeline("translation", model=model_checkpoint, device=0)
-    for out in translator(dataset, max_length=max_length):
-        print(out)
+    counter = 0
+    with open(PL_PATH, "w") as f:
+        for out in translator(dataset, max_length=max_length):
+            for map in out:
+                f.write(map.get("translation_text"))
+                f.write("\n")
+
+                counter += 1
+                if counter % 1000 == 0:
+                    print(counter, "/", max_length)
